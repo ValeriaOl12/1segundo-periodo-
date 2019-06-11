@@ -9,27 +9,9 @@ Aqui podras encontrar tus anuncios diarios como el evangelio del dia y algunos d
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FLo8Fsl-kPQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Evangelio:
-De la mano de Dios todo es posible, el es un acompañante para nuestro dia a dia
+De la mano de Dios todo es posible, el es un acompañante para nuestro dia a dia.
 <img src="https://raw.githubusercontent.com/ValeriaOl12/1segundo-periodo-/gh-pages/c5974cb2f6224bf49923fa1bc75ed721.jpg" width="600" height="300"/>
-### Header 3
+### Bono de Hoy:
+Hoy en la tienda de cacique presentandose este bono podras tener muchos descuentos.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ValeriaOl12/segundo-periodo-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<img src="https://raw.githubusercontent.com/ValeriaOl12/1segundo-periodo-/gh-pages/c4ddd8411266461e9d92b4eb624914aa.jpg" idth="600" height="300"/>
