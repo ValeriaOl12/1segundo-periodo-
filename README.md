@@ -21,3 +21,5 @@ Hoy en la tienda de cacique presentandose este bono podras tener muchos descuent
 Solo por hoy en Katronix *Robot que hace las tareas de tu hogar.* *50% de descuento*
 
 <img src="https://raw.githubusercontent.com/ValeriaOl12/1segundo-periodo-/gh-pages/hg.jpg" width="600" height="300"/>
+
+### Valeria Olarte 11B
