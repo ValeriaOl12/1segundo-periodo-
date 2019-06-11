@@ -15,3 +15,9 @@ De la mano de Dios todo es posible, el es un acompañante para nuestro dia a dia
 Hoy en la tienda de cacique presentandose este bono podras tener muchos descuentos.
 
 <img src="https://raw.githubusercontent.com/ValeriaOl12/1segundo-periodo-/gh-pages/c4ddd8411266461e9d92b4eb624914aa.jpg" idth="600" height="300"/>
+
+#SOLO POR HOY!!!!
+
+Solo por hoy en Katronix *Robot que hace las tareas de tu hogar.* *50% de descuento*
+
+<img src="https://raw.githubusercontent.com/ValeriaOl12/1segundo-periodo-/gh-pages/hg.jpg" width="600" height="300"/>
