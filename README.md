@@ -2,7 +2,7 @@
 
 Aqui podras encontrar tus anuncios diarios como el evangelio del dia y algunos descuentos de unas tiendas.
 ### Hola, yo soy Robotit y les voy a presentar los anuncios del dia de hoy :P
-<img src: "https://raw.githubusercontent.com/ValeriaOl12/1segundo-periodo-/gh-pages/roboott.jpg" width="300" height="300"
+<img src: "https://raw.githubusercontent.com/ValeriaOl12/1segundo-periodo-/gh-pages/roboott.jpg" width="300" height="300"/>
 
 # Nuestro Objetivo:
 
